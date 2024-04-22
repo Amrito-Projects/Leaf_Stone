@@ -1,8 +1,4 @@
-# LineageOS_lisa
+# LineageOS_Stone
 
-## Unofficial otaserver for Xiaomi 11 lite 5g NE ##
-Read the instructions carefully from [Here](https://itsvixano.gitlab.io/lineageos_flashing/)
-
-Report a bug by following [this page](https://guide.itsvixano.me/troubleshooting/)
-
-[![Unofficial release downloads](https://img.shields.io/github/downloads/ItsVixano-releases/LineageOS_lisa/total.svg)](https://github.com/ItsVixano-releases/LineageOS_lisa/releases/)
+## Unofficial otaserver for Xiaomi Poco X5 5G / Redmi Note 12 5G  ##
+Use Your Brain , Need Help Check My Github Id
